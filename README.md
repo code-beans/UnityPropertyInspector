@@ -34,7 +34,7 @@ You may want to build your own .DLLs from source to declutter your code base.
 * Clean solution
 * Build
 
-### Documentation
+## Documentation
 
 The Unity Editor exposes public fields in the inspector window, but does not handle properties.
 Some developers circumvent this limitation by polling changes in the "`Update()`-loop". The result is poorly maintainable and unperformant code.
